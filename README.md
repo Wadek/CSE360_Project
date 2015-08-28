@@ -1,5 +1,5 @@
 # CSE360_Project
 
-This is a readme
+Project Contributers:
 Katelyn Duffy- katelyn.duffy@cox.net
 Reman Koshaba- rkoshab1@asu.edu
