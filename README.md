@@ -1,6 +1,5 @@
 # CSE360_Project
 
-This is a readme
 Project Contributers:<br />
 Wade Kariniemi- wkariniemi@gmail.com<br />
 Katelyn Duffy- katelyn.duffy@cox.net<br />
