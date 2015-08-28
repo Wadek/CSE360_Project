@@ -1,4 +1,4 @@
 # CSE360_Project
 
 This is a readme
-Katelyn Duffy- katelyn.duffy@cox.net
+Ryan Schachte - code@asu.edu - (480) - 452 - 8825
