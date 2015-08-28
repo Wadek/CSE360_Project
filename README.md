@@ -1,7 +1,7 @@
 # CSE360_Project
 
-Project Contributers:
-Wade Kariniem- wkariniemi@gmail.com<br />
+Project Contributers:<br />
+Wade Kariniemi- wkariniemi@gmail.com<br />
 Katelyn Duffy- katelyn.duffy@cox.net<br />
 Reman Koshaba- rkoshab1@asu.edu<br />
 Kevin Duong-(480) 310-8192<br />
