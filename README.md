@@ -1,6 +1,6 @@
 # CSE360_Project
 
-Project Contributers:<br />
+Project Contributors:<br />
 Wade Kariniemi- wkariniemi@gmail.com<br />
 Katelyn Duffy- katelyn.duffy@cox.net<br />
 Reman Koshaba- rkoshab1@asu.edu<br />
