@@ -16,6 +16,7 @@ the needs of a basic private clinic. The various features can be found below
 <b>Dev</b> Minghao Wei(ming) 670160906@qq.com<br />
 <b>Dev</b> Po-Kai(Jerry) Huang- phuang24@asu.edu<br />
 <b>Dev</b> Javier Peralta - perajavier626@gmail.com<br />
+<b>Dev</b> Jezreel Garcia - jgarci72@asu.edu<br />
 
 
 
