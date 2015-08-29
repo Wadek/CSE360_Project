@@ -7,7 +7,7 @@
 This is a collaborative project for CSE360. Our basic goal is to create a "health management system" that fulfills<br />
 the needs of a basic private clinic. The various features can be found below
 
-# Project Contributers:<br />
+# Project Contributors:<br />
 <b>Admin</b> Wade Kariniemi- wkariniemi@gmail.com<br />
 <b>Admin</b> Katelyn Duffy- katelyn.duffy@cox.net<br />
 <b>Lead Dev</b> Ryan Schachte - code@asu.edu - (480) - 452 - 8825<br />
