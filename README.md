@@ -18,7 +18,9 @@ the needs of a basic private clinic. The various features can be found below
 <b>Dev</b> Javier Peralta - perajavier626@gmail.com<br />
 <b>Dev</b> Jezreel Garcia - jgarci72@asu.edu<br />
 
-
+#Relevant Resources<br>
+We will be using HipChat for seamless group communication of the web. <a href="https://hipchat.com">Click Here</a></br>
+We will be using Trello for clean and simple project management. <a href="https://trello.com/b/YylyWZ6n">Click Here</a></br>
 
 #Various Features<br />
 Managing patients’ information. <br />
