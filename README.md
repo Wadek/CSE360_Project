@@ -19,7 +19,7 @@ the needs of a basic private clinic. The various features can be found below
 <b>Dev</b> Jezreel Garcia - jgarci72@asu.edu<br />
 
 
-<center>#Useful Tutorials & Learning Resources</center></br>
+#<center>Useful Tutorials & Learning Resources</center></br>
 <a href="https://docs.djangoproject.com/en/1.8/intro/tutorial01/">The Polls Tutorial (Written)</a>
 This is a very useful tutorial written by English professors. The documentation is great and walks you through the basics of getting started.
 
