@@ -18,6 +18,17 @@ the needs of a basic private clinic. The various features can be found below
 <b>Dev</b> Javier Peralta - perajavier626@gmail.com<br />
 <b>Dev</b> Jezreel Garcia - jgarci72@asu.edu<br />
 
+
+<center>#Useful Tutorials & Learning Resources</center></br>
+<a href="https://docs.djangoproject.com/en/1.8/intro/tutorial01/">The Polls Tutorial (Written)</a>
+This is a very useful tutorial written by English professors. The documentation is great and walks you through the basics of getting started.
+
+<a href="https://www.youtube.com/watch?v=KZHXjGP71kQ">Getting Started with Django with Kenneth Love (Video)</a>
+Also a very good beginner tutorial that will actually walk you through building a functional app with a database implementation and useful functionality.
+
+<a href="https://www.youtube.com/playlist?list=PLEsfXFp6DpzRcd-q4vR5qAgOZUuz8041S">Creating MVP Landing Page in Django with Justin Mitchell (Video Series LONG)</a>
+Don’t go through every single video in-depth. It’s time consuming, but very useful. 
+
 #Relevant Resources<br>
 We will be using HipChat for seamless group communication of the web. <a href="https://hipchat.com">Click Here</a></br>
 We will be using Trello for clean and simple project management. <a href="https://trello.com/b/YylyWZ6n">Click Here</a></br>
