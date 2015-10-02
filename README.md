@@ -7,17 +7,26 @@
 This is a collaborative project for CSE360. Our basic goal is to create a "health management system" that fulfills<br />
 the needs of a basic private clinic. The various features can be found below
 
+
+
+#Group Website For Management
+<a href="http://group.ryan-schachte.com">http://group.ryan-schachte.com</a>
+<br>
+
+=======
 # Project Contributors:<br />
 <b>Admin</b> Wade Kariniemi- wkariniemi@gmail.com<br />
 <b>Admin</b> Katelyn Duffy- katelyn.duffy@cox.net<br />
 <b>Lead Dev</b> Ryan Schachte - code@asu.edu - (480) - 452 - 8825<br />
 <b>Dev</b> Reman Koshaba- rkoshab1@asu.edu<br />
-<b>Dev</b> Kevin Duong-(480) 310-8192<br />
-<b>Dev</b> Minghao Wei(ming) 670160906@qq.com<br />
-<b>Dev</b> Po-Kai(Jerry) Huang- phuang24@asu.edu<br />
+<b>Dev</b> Kevin Duong- ktduong@asu.edu<br />
+<b>Dev</b> Minghao Wei(ming) mw19910824@gmail.com<br />
+<b>Dev</b> Po-Kai(Jerry) Huang- jaffny@yahoo.com.tw<br />
 <b>Dev</b> Javier Peralta - perajavier626@gmail.com<br />
 <b>Dev</b> Jezreel Garcia - jgarci72@asu.edu<br />
-
+<b>Dev</b> Sang Le - (602) 802 3450 - sble1@asu.edu<br />
+<br>
+=======
 
 #<center>Useful Tutorials & Learning Resources</center></br>
 <a href="https://docs.djangoproject.com/en/1.8/intro/tutorial01/">The Polls Tutorial (Written)</a>
